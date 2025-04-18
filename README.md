@@ -8,13 +8,13 @@ Automation Testing - Sauce Demo Automation
 4) Tools / Tech Stack:- Java, Selenium WebDriver, TestNG, Apache POI
 5) Data Source:-	Excel (.xlsx) 
 
-(.) Automated test script for:
+(2) Automated test script for:
 1) LoginTest 
 2) ProductFilterTest
 3) CartOperationTest
 4) CheckoutTest
 
-(2) Environment Setup
+(3) Environment Setup
 
 1) OS:-	Windows 10
 2) Browser:-	Chrome
@@ -24,14 +24,10 @@ Automation Testing - Sauce Demo Automation
 6) IDE:-	Eclipse
 7) Others:-	Apache POI 
 
-(3) Sample Test Data (Excel Sheet)
+(4) Sample Test Data (Excel Sheet)
 
 Username, Password
 1) standard_user, secret_sauce
 2) locked_out_user, secret_sauce
 3) problem_user, secret_sauce
 4) performance_glitch_user, secret_sauce
-5) 
-
-
-
