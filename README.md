@@ -2,28 +2,28 @@ Automation Testing - Sauce Demo Automation
 
 1. Overview
 
-Project Name:- Sauce Demo Automation Testing, 
-Website:- https://www.saucedemo.com/v1/ ,
-Objective:-	Automate the testing of key functionalities on the sauce demo/Swag labs website , 
-Tools / Tech Stack:- Java, Selenium WebDriver, TestNG, Apache POI , 
-Data Source:-	Excel (.xlsx) ,
+1) Project Name:- Sauce Demo Automation Testing
+2) Website:- https://www.saucedemo.com/v1/
+3) Objective:-	Automate the testing of key functionalities on the sauce demo/Swag labs website
+4) Tools / Tech Stack:- Java, Selenium WebDriver, TestNG, Apache POI
+5) Data Source:-	Excel (.xlsx) 
 
 2. Environment Setup
 
-OS:-	Windows 10 ,
-Browser:-	Chrome , 
-Java Version:-	Java 8 ,
-Selenium Version:-	4.28.1 ,
-TestNG Version:-	7.11.0 , 
-IDE:-	Eclipse ,
-Others:-	Apache POI ,
+1) OS:-	Windows 10
+2) Browser:-	Chrome
+3) Java Version:-	Java 8
+4) Selenium Version:-	4.28.1
+5) TestNG Version:-	7.11.0
+6) IDE:-	Eclipse
+7) Others:-	Apache POI 
 
 3. Sample Test Data (Excel Sheet)
 
-Username	                Password
-standard_user	            secret_sauce
-locked_out_user	          secret_sauce
-problem_user	            secret_sauce
-performance_glitch_user	  secret_sauce
+Username	                  Password
+1) standard_user	          secret_sauce
+2) locked_out_user	        secret_sauce
+3) problem_user	            secret_sauce
+4) performance_glitch_user	secret_sauce
 
 
