@@ -20,10 +20,10 @@ Automation Testing - Sauce Demo Automation
 
 3. Sample Test Data (Excel Sheet)
 
-Username	                  Password
-1) standard_user	          secret_sauce
-2) locked_out_user	        secret_sauce
-3) problem_user	            secret_sauce
-4) performance_glitch_user	secret_sauce
+Username, Password
+1) standard_user, secret_sauce
+2) locked_out_user, secret_sauce
+3) problem_user, secret_sauce
+4) performance_glitch_user, secret_sauce
 
 
