@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-18T19:56:45 PDT" name="Suite" finished-at="2025-04-18T19:58:14 PDT" duration-ms="88464">
+    <groups>
+    </groups>
+    <test started-at="2025-04-18T19:56:45 PDT" name="Test" finished-at="2025-04-18T19:58:14 PDT" duration-ms="88464">
+      <class name="simple.com.simpleProject.CartOperationTest">
+        <test-method signature="CartTest()[pri:0, instance:simple.com.simpleProject.CartOperationTest@7530ad9c]" started-at="2025-04-18T19:57:53 PDT" name="CartTest" finished-at="2025-04-18T19:58:02 PDT" duration-ms="8515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartTest -->
+      </class> <!-- simple.com.simpleProject.CartOperationTest -->
+      <class name="simple.com.simpleProject.LoginTest">
+        <test-method signature="testLogin(java.lang.String,java.lang.String)[pri:0, instance:simple.com.simpleProject.LoginTest@609cd4d8]" started-at="2025-04-18T19:56:48 PDT" name="testLogin" data-provider="loginData" finished-at="2025-04-18T19:57:01 PDT" duration-ms="12529" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testLogin(java.lang.String,java.lang.String)[pri:0, instance:simple.com.simpleProject.LoginTest@609cd4d8]" started-at="2025-04-18T19:57:01 PDT" name="testLogin" data-provider="loginData" finished-at="2025-04-18T19:57:14 PDT" duration-ms="12931" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[locked_out_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testLogin(java.lang.String,java.lang.String)[pri:0, instance:simple.com.simpleProject.LoginTest@609cd4d8]" started-at="2025-04-18T19:57:14 PDT" name="testLogin" data-provider="loginData" finished-at="2025-04-18T19:57:24 PDT" duration-ms="9861" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[problem_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testLogin(java.lang.String,java.lang.String)[pri:0, instance:simple.com.simpleProject.LoginTest@609cd4d8]" started-at="2025-04-18T19:57:24 PDT" name="testLogin" data-provider="loginData" finished-at="2025-04-18T19:57:39 PDT" duration-ms="15382" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[performance_glitch_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testLogin(java.lang.String,java.lang.String)[pri:0, instance:simple.com.simpleProject.LoginTest@609cd4d8]" started-at="2025-04-18T19:57:39 PDT" name="testLogin" data-provider="loginData" finished-at="2025-04-18T19:57:45 PDT" duration-ms="6222" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- simple.com.simpleProject.LoginTest -->
+      <class name="simple.com.simpleProject.ProductFilter">
+        <test-method signature="ProductFilteringLowToHigh()[pri:0, instance:simple.com.simpleProject.ProductFilter@1e66f1f5]" started-at="2025-04-18T19:57:45 PDT" name="ProductFilteringLowToHigh" finished-at="2025-04-18T19:57:53 PDT" duration-ms="7664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductFilteringLowToHigh -->
+      </class> <!-- simple.com.simpleProject.ProductFilter -->
+      <class name="simple.com.simpleProject.CheckoutTest">
+        <test-method signature="testCheckoutProcess()[pri:0, instance:simple.com.simpleProject.CheckoutTest@58a9760d]" started-at="2025-04-18T19:58:02 PDT" name="testCheckoutProcess" finished-at="2025-04-18T19:58:14 PDT" duration-ms="12247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckoutProcess -->
+      </class> <!-- simple.com.simpleProject.CheckoutTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
